@@ -12,11 +12,11 @@ MySQL, Redis, MongoDB, PostgreSQL 등 인기 데이터베이스 시스템 마스
 
 |   인덱스 | 이름                                                                                  | 난이도   | Repo                                                              | 연습                                                                 |
 |----------|---------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------|----------------------------------------------------------------------|
-|        1 | [MySQL 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mysql)                 | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mysql)   |
-|        2 | [PostgreSQL 초보자를 위한 안내](https://labex.io/ko/courses/postgresql-for-beginners) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 실습 시작](https://labex.io/ko/courses/postgresql-for-beginners) |
-|        3 | [MongoDB 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mongodb)             | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mongodb) |
-|        4 | [Redis 초보자를 위한 안내](https://labex.io/ko/courses/redis-for-beginners)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 실습 시작](https://labex.io/ko/courses/redis-for-beginners)      |
-|        5 | [SQLite 초보자를 위한 안내](https://labex.io/ko/courses/sqlite-for-beginners)         | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 실습 시작](https://labex.io/ko/courses/sqlite-for-beginners)     |
+|        1 | [MySQL 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mysql)                 | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mysql)   |
+|        2 | [PostgreSQL 초보자를 위한 안내](https://labex.io/ko/courses/postgresql-for-beginners) | 초급     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 실습 시작](https://labex.io/ko/courses/postgresql-for-beginners) |
+|        3 | [MongoDB 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mongodb)             | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mongodb) |
+|        4 | [Redis 초보자를 위한 안내](https://labex.io/ko/courses/redis-for-beginners)           | 초급     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 실습 시작](https://labex.io/ko/courses/redis-for-beginners)      |
+|        5 | [SQLite 초보자를 위한 안내](https://labex.io/ko/courses/sqlite-for-beginners)         | 초급     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 실습 시작](https://labex.io/ko/courses/sqlite-for-beginners)     |
 
 ## 더 보기
 
