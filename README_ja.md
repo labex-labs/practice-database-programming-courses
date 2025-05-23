@@ -12,11 +12,11 @@ MySQL、Redis、MongoDB、PostgreSQL などの人気データベースシステ�
 
 |   インデックス | 名前                                                                               | 難易度   | Repo                                                              | 練習                                                                  |
 |----------------|------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
-|              1 | [MySQL のクイックスタート](https://labex.io/ja/courses/quick-start-with-mysql)     | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mysql)   |
-|              2 | [初心者のための PostgreSQL](https://labex.io/ja/courses/postgresql-for-beginners)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/postgresql-for-beginners) |
-|              3 | [MongoDB のクイックスタート](https://labex.io/ja/courses/quick-start-with-mongodb) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mongodb) |
-|              4 | [初心者向け Redis](https://labex.io/ja/courses/redis-for-beginners)                | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 ラボを開始](https://labex.io/ja/courses/redis-for-beginners)      |
-|              5 | [初心者のための SQLite](https://labex.io/ja/courses/sqlite-for-beginners)          | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 ラボを開始](https://labex.io/ja/courses/sqlite-for-beginners)     |
+|              1 | [MySQL のクイックスタート](https://labex.io/ja/courses/quick-start-with-mysql)     | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mysql)   |
+|              2 | [初心者のための PostgreSQL](https://labex.io/ja/courses/postgresql-for-beginners)  | 初級     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/postgresql-for-beginners) |
+|              3 | [MongoDB のクイックスタート](https://labex.io/ja/courses/quick-start-with-mongodb) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mongodb) |
+|              4 | [初心者向け Redis](https://labex.io/ja/courses/redis-for-beginners)                | 初級     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 ラボを開始](https://labex.io/ja/courses/redis-for-beginners)      |
+|              5 | [初心者のための SQLite](https://labex.io/ja/courses/sqlite-for-beginners)          | 初級     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 ラボを開始](https://labex.io/ja/courses/sqlite-for-beginners)     |
 
 ## その他
 
