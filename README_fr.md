@@ -12,11 +12,11 @@ Un parcours d'apprentissage complet pour maîtriser les systèmes de bases de do
 
 |   Index | Nom                                                                                   | Difficulté   | Repo                                                              | Pratique                                                                    |
 |---------|---------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec MySQL](https://labex.io/fr/courses/quick-start-with-mysql)     | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-mysql)   |
-|       2 | [PostgreSQL pour les débutants](https://labex.io/fr/courses/postgresql-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/postgresql-for-beginners) |
-|       3 | [Démarrage rapide avec MongoDB](https://labex.io/fr/courses/quick-start-with-mongodb) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-mongodb) |
-|       4 | [Redis pour les débutants](https://labex.io/fr/courses/redis-for-beginners)           | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 Commencer le Lab](https://labex.io/fr/courses/redis-for-beginners)      |
-|       5 | [SQLite pour les débutants](https://labex.io/fr/courses/sqlite-for-beginners)         | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 Commencer le Lab](https://labex.io/fr/courses/sqlite-for-beginners)     |
+|       1 | [Démarrage rapide avec MySQL](https://labex.io/fr/courses/quick-start-with-mysql)     | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-mysql)   |
+|       2 | [PostgreSQL pour les débutants](https://labex.io/fr/courses/postgresql-for-beginners) | Débutant     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/postgresql-for-beginners) |
+|       3 | [Démarrage rapide avec MongoDB](https://labex.io/fr/courses/quick-start-with-mongodb) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-mongodb) |
+|       4 | [Redis pour les débutants](https://labex.io/fr/courses/redis-for-beginners)           | Débutant     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 Commencer le Lab](https://labex.io/fr/courses/redis-for-beginners)      |
+|       5 | [SQLite pour les débutants](https://labex.io/fr/courses/sqlite-for-beginners)         | Débutant     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 Commencer le Lab](https://labex.io/fr/courses/sqlite-for-beginners)     |
 
 ## Plus
 
