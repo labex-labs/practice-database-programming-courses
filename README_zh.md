@@ -8,15 +8,15 @@
 <img width="128px" src="https://file.labex.io/path/S2s0kYPxCISr.png">
 </div>
 
-这是一个全面的数据库学习路径，涵盖 MySQL、Redis、MongoDB 和 PostgreSQL 等流行数据库系统。此技能树为数据库初学者提供了结构化的学习内容，涵盖不同数据库类型的基本概念、数据库设计和管理。通过实践型非视频课程以及交互式数据库练习场中的实际操作，你将获得数据库管理和查询的实际经验。
+通过专为初学者设计的综合学习路径学习数据库。本路线图提供实践性的数据库课程，助您掌握 MySQL、Redis、MongoDB 和 PostgreSQL 等流行系统。它提供结构化学习，涵盖不同数据库类型的基本概念、数据库设计和管理。通过交互式数据库演练场中的实践练习，获得数据库管理和查询的真实世界经验。
 
 |   序号 | 名称                                                                          | 难度   | Repo                                                              | 练习                                                                |
 |--------|-------------------------------------------------------------------------------|--------|-------------------------------------------------------------------|---------------------------------------------------------------------|
 |      1 | [MySQL 快速入门](https://labex.io/zh/courses/quick-start-with-mysql)          | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mysql)   |
 |      2 | [PostgreSQL 初学者教程](https://labex.io/zh/courses/postgresql-for-beginners) | 初级   | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 开始实验](https://labex.io/zh/courses/postgresql-for-beginners) |
-|      3 | [MongoDB 快速入门](https://labex.io/zh/courses/quick-start-with-mongodb)      | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mongodb) |
-|      4 | [Redis 初学者入门](https://labex.io/zh/courses/redis-for-beginners)           | 初级   | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 开始实验](https://labex.io/zh/courses/redis-for-beginners)      |
-|      5 | [SQLite 初学者教程](https://labex.io/zh/courses/sqlite-for-beginners)         | 初级   | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 开始实验](https://labex.io/zh/courses/sqlite-for-beginners)     |
+|      3 | [Redis 初学者入门](https://labex.io/zh/courses/redis-for-beginners)           | 初级   | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 开始实验](https://labex.io/zh/courses/redis-for-beginners)      |
+|      4 | [SQLite 初学者教程](https://labex.io/zh/courses/sqlite-for-beginners)         | 初级   | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 开始实验](https://labex.io/zh/courses/sqlite-for-beginners)     |
+|      5 | [MongoDB 入门指南](https://labex.io/zh/courses/mongodb-for-beginners)         | 初级   | [🔗 Repo](https://github.com/labex-labs/mongodb-for-beginners)    | [🚀 开始实验](https://labex.io/zh/courses/mongodb-for-beginners)    |
 
 ## 更多
 
