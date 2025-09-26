@@ -8,15 +8,15 @@
 <img width="128px" src="https://file.labex.io/path/S2s0kYPxCISr.png">
 </div>
 
-Una ruta de aprendizaje completa para dominar sistemas de bases de datos populares, incluyendo MySQL, Redis, MongoDB y PostgreSQL. Este Árbol de Habilidades ofrece aprendizaje estructurado para principiantes en bases de datos, cubriendo conceptos esenciales, diseño de bases de datos y administración en diferentes tipos de bases de datos. A través de cursos prácticos sin video y ejercicios prácticos en parques de juegos interactivos de bases de datos, obtendrás experiencia real en gestión y consulta de bases de datos.
+Aprende Bases de Datos con una ruta de aprendizaje integral diseñada para principiantes. Este itinerario incluye cursos prácticos de Bases de Datos para dominar sistemas populares como MySQL, Redis, MongoDB y PostgreSQL. Ofrece un aprendizaje estructurado que cubre conceptos esenciales, diseño de bases de datos y administración en diferentes tipos de bases de datos. Adquiere experiencia real en gestión y consulta de bases de datos a través de ejercicios prácticos en entornos interactivos de bases de datos.
 
 |   Índice | Nombre                                                                                | Dificultad   | Repo                                                              | Práctica                                                                       |
 |----------|---------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------|
 |        1 | [Inicio rápido con MySQL](https://labex.io/es/courses/quick-start-with-mysql)         | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-mysql)   |
 |        2 | [PostgreSQL para Principiantes](https://labex.io/es/courses/postgresql-for-beginners) | Principiante | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/postgresql-for-beginners) |
-|        3 | [Inicio rápido con MongoDB](https://labex.io/es/courses/quick-start-with-mongodb)     | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-mongodb) |
-|        4 | [Redis para Principiantes](https://labex.io/es/courses/redis-for-beginners)           | Principiante | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/redis-for-beginners)      |
-|        5 | [SQLite para Principiantes](https://labex.io/es/courses/sqlite-for-beginners)         | Principiante | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/sqlite-for-beginners)     |
+|        3 | [Redis para Principiantes](https://labex.io/es/courses/redis-for-beginners)           | Principiante | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/redis-for-beginners)      |
+|        4 | [SQLite para Principiantes](https://labex.io/es/courses/sqlite-for-beginners)         | Principiante | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/sqlite-for-beginners)     |
+|        5 | [MongoDB para Principiantes](https://labex.io/es/courses/mongodb-for-beginners)       | Principiante | [🔗 Repo](https://github.com/labex-labs/mongodb-for-beginners)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/mongodb-for-beginners)    |
 
 ## Más
 
