@@ -8,15 +8,15 @@
 <img width="128px" src="https://file.labex.io/path/S2s0kYPxCISr.png">
 </div>
 
-Ein umfassender Lernpfad zur Beherrschung beliebter Datenbanksysteme, einschließlich MySQL, Redis, MongoDB und PostgreSQL. Dieser Kompetenzbaum bietet strukturiertes Lernen für Datenbankanfänger und deckt grundlegende Konzepte, Datenbankdesign und -verwaltung über verschiedene Datenbanktypen hinweg ab. Durch praktische, nicht-videobasierte Kurse und praktische Übungen in interaktiven Datenbank-Playgrounds erlangen Sie praktische Erfahrung in Datenbankverwaltung und -abfragen.
+Lernen Sie Datenbanken mit einem umfassenden Lernpfad, der für Anfänger konzipiert ist. Diese Roadmap bietet praktische Datenbankkurse zum Beherrschen gängiger Systeme wie MySQL, Redis, MongoDB und PostgreSQL. Sie bietet strukturiertes Lernen, das wesentliche Konzepte, Datenbankdesign und -verwaltung über verschiedene Datenbanktypen hinweg abdeckt. Sammeln Sie praktische Erfahrungen im Datenbankmanagement und bei Abfragen durch praktische Übungen in interaktiven Datenbank-Playgrounds.
 
-|   Index | Name                                                                             | Schwierigkeit   | Repo                                                              | Übung                                                                    |
-|---------|----------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [Schnellstart mit MySQL](https://labex.io/de/courses/quick-start-with-mysql)     | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-mysql)   |
-|       2 | [PostgreSQL für Anfänger](https://labex.io/de/courses/postgresql-for-beginners)  | Anfänger        | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/postgresql-for-beginners) |
-|       3 | [Schnellstart mit MongoDB](https://labex.io/de/courses/quick-start-with-mongodb) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-mongodb) |
-|       4 | [Redis für Anfänger](https://labex.io/de/courses/redis-for-beginners)            | Anfänger        | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 Labor Starten](https://labex.io/de/courses/redis-for-beginners)      |
-|       5 | [SQLite für Anfänger](https://labex.io/de/courses/sqlite-for-beginners)          | Anfänger        | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 Labor Starten](https://labex.io/de/courses/sqlite-for-beginners)     |
+|   Index | Name                                                                            | Schwierigkeit   | Repo                                                              | Übung                                                                    |
+|---------|---------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
+|       1 | [Schnellstart mit MySQL](https://labex.io/de/courses/quick-start-with-mysql)    | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)   | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-mysql)   |
+|       2 | [PostgreSQL für Anfänger](https://labex.io/de/courses/postgresql-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/postgresql-for-beginners) |
+|       3 | [Redis für Anfänger](https://labex.io/de/courses/redis-for-beginners)           | Anfänger        | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)      | [🚀 Labor Starten](https://labex.io/de/courses/redis-for-beginners)      |
+|       4 | [SQLite für Anfänger](https://labex.io/de/courses/sqlite-for-beginners)         | Anfänger        | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)     | [🚀 Labor Starten](https://labex.io/de/courses/sqlite-for-beginners)     |
+|       5 | [MongoDB für Anfänger](https://labex.io/de/courses/mongodb-for-beginners)       | Anfänger        | [🔗 Repo](https://github.com/labex-labs/mongodb-for-beginners)    | [🚀 Labor Starten](https://labex.io/de/courses/mongodb-for-beginners)    |
 
 ## Mehr
 
